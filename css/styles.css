@@ -10882,3 +10882,25 @@ div-img {
   display: flex;
   justify-content: center;
 }
+
+.social-media-links {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  gap: 20px;
+}
+
+.social-media-links img {
+  height: 25px;
+}
+
+.social-media-links-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-media-links-footer img {
+  height: 25px;
+}
